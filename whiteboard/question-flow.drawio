@@ -1,0 +1,47 @@
+<mxfile host="65bd71144e">
+    <diagram id="fr8vObw3n9BdkRlGjZSh" name="Page-1">
+        <mxGraphModel dx="2772" dy="1724" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="2" value="&lt;span style=&quot;font-size: 42px;&quot;&gt;Parent's Message&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=42;" vertex="1" parent="1">
+                    <mxGeometry x="1048" y="280" width="300" height="100" as="geometry"/>
+                </mxCell>
+                <mxCell id="16" style="edgeStyle=none;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=10;fontSize=77;" edge="1" parent="1" source="3" target="10">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="3" value="&lt;font style=&quot;font-size: 80px;&quot;&gt;Parent's Query&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=60;strokeWidth=6;" vertex="1" parent="1">
+                    <mxGeometry x="530" y="250" width="480" height="290" as="geometry"/>
+                </mxCell>
+                <mxCell id="19" value="" style="edgeStyle=none;html=1;strokeWidth=10;fontSize=42;" edge="1" parent="1" source="10" target="18">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="10" value="&lt;font style=&quot;font-size: 80px;&quot;&gt;WhatsApp Server&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=60;strokeWidth=6;" vertex="1" parent="1">
+                    <mxGeometry x="1370" y="260" width="480" height="290" as="geometry"/>
+                </mxCell>
+                <mxCell id="11" value="&lt;font style=&quot;font-size: 77px;&quot;&gt;Parent&lt;/font&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;strokeWidth=5;fontSize=77;" vertex="1" parent="1">
+                    <mxGeometry x="200" y="270" width="80" height="140" as="geometry"/>
+                </mxCell>
+                <mxCell id="25" style="edgeStyle=none;html=1;strokeWidth=10;fontSize=42;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="18">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="2530" y="740" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="18" value="&lt;font style=&quot;font-size: 80px;&quot;&gt;Ayra Server&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=60;strokeWidth=6;" vertex="1" parent="1">
+                    <mxGeometry x="2290" y="260" width="480" height="290" as="geometry"/>
+                </mxCell>
+                <mxCell id="22" value="&lt;span style=&quot;font-size: 42px;&quot;&gt;Parent's Message&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=42;" vertex="1" parent="1">
+                    <mxGeometry x="1912.5" y="280" width="300" height="100" as="geometry"/>
+                </mxCell>
+                <mxCell id="37" style="edgeStyle=none;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=10;fontSize=42;" edge="1" parent="1" source="36">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="2530" y="1090" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="36" value="Authenticate Parent through phone number" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;strokeWidth=6;fontSize=42;" vertex="1" parent="1">
+                    <mxGeometry x="2212.5" y="740" width="635" height="150" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
